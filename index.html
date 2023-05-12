@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/imagens/cooking-on-the-barbecue-icon.png">
+    <link rel="stylesheet" href="./style.css">
+    <title>Churrascômetro</title>
+</head>
+<body>
+    <div class="content">
+        <div class="header">
+        <h1>Descubra o kit-churrasco para sua festa!</h1>
+    </div>
+    <div class="container">
+        <h1>Churrascômetro</h1>
+        <p>Adultos
+        <input id="adultos" name="adultos" type="number" placeholder="Adultos">
+        </p>
+        <p>Crianças
+        <input id="criancas" name="criancas" type="number" placeholder="Crianças">
+        </p>
+        <p>Adultos Que Tomam Cerveja
+        <input id="adultosCerveja" name="adultosCerveja" type="number" placeholder="Cerveja">
+        </p>
+        <p>Duração
+        <input id="duracao" name="duracao" type="number" placeholder="Duração (h)">
+        </p>
+        <button onclick="calcular()">Calcular</button>
+
+        <div id="resultado">
+
+        </div>
+        <img id="churrasqueira-icon1" src="./imagens/cooking-on-the-barbecue.png" alt="">
+    </div>
+    <div class="resultado-kit">
+        <h1>Kit-Churrasco para cada adulto</h1>
+        <div id="resultadoKit">
+        </div>
+        <img id="churrasqueira-icon2" src="./imagens/cooking-on-the-barbecue.png" alt="">
+    </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

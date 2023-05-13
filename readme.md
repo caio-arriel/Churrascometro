@@ -1,7 +1,7 @@
 <h1 align="center"> Churrascômetro </h1>
 
 <p align="center">
-Projeto realizado pelo curso programadorBR <br/>
+Projeto realizado pelo curso programador BR <br/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Projeto realizado pelo curso programadorBR <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.PNG" width="100%">
+  <img alt="projeto Churrascômetro" src=".github/preview.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias

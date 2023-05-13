@@ -1,7 +1,7 @@
 <h1 align="center"> Churrascômetro </h1>
 
 <p align="center">
-Projeto realizado pelo cruso programadorBR <br/>
+Projeto realizado pelo curso programadorBR <br/>
 </p>
 
 <p align="center">
